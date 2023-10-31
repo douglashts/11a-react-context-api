@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Prática: Pokémons Favoritos com Redux
+
+Esta prática exemplifica como utilizar o Context API do React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
